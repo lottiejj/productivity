@@ -1,0 +1,14 @@
+[
+   {
+       "day" : "monday",
+       "task" : "complete assignment",
+       "done" : "completed"
+
+   },
+   {
+       "day" : "tuesday",
+       "task" : "get shopping",
+       "done" : "completed"
+   }
+
+]
